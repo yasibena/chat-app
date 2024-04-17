@@ -1,0 +1,35 @@
+/* src/styles.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: #96efff;
+}
+
+#file-input {
+  display: none;
+}
+
+.owner {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.owner-p {
+  background-color: #1f8fb4;
+  color: white;
+  border-radius: 10px 0px 10px 10px;
+}
+
+.owne-c {
+  align-items: flex-end;
+}
