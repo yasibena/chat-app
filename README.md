@@ -10,3 +10,4 @@ Also you should know about supabase database or read the docs of it from helpful
 
 # Helpfull Links
 Supabase: https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
+TailwindCss: https://tailwindcss.com/docs/guides/create-react-app
