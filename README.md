@@ -9,4 +9,4 @@ In this series, I’ll assume you have a working knowledge of both HTML, JavaScr
 Also you should know about supabase database or read the docs of it from helpfull links below.
 
 # Helpfull Links
-Supabase:https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
+Supabase: https://supabase.com/docs/guides/getting-started/quickstarts/reactjs
