@@ -1,8 +1,10 @@
-# React + Vite
+# Real-time chat application
+Real-time chat application with Supabase, React and Tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Chat app](https://github.com/yasibena/chat-app/assets/118657398/fa4aa480-2bc8-47c4-b056-f94ba63a4f65)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Assumptions
+In this series, I’ll assume you have a working knowledge of both HTML, JavaScript, React, and React Router and TailwindCss.
+Also you should know about supabase database or read the docs of it from helpfull links below.
+
